@@ -1,0 +1,28 @@
+body {
+    background-color: #4ff30349;
+    background-image: url(imagenes/imagen2.avif);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.yo {
+    background-color: #ffffff; /* Color de fondo del cuadro */
+    border: 3px solid #4CAF50; /* Borde del cuadro */        border-radius: 10px; /* Bordes redondeados */
+    padding: 1px; /* Espaciado interno */
+    margin-bottom: 20px; /* Espaciado con otras secciones */
+    box-shadow: 0 15px 6px rgba(0, 0, 0, 0.1); /* Sombra para darle un toque moderno */
+
+}
+
+.titulo {
+    text-align: center;
+}
+
+.skill {
+    background-color: blanchedalmond;
+    border: 3px solid #4CAF50;
+    padding: 1px;
+    margin-bottom: 20px;
+    box-shadow: 0 15px 6px rgba(0, 0, 0, 0.1);
+}
